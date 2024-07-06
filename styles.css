@@ -67,12 +67,12 @@ span a:hover {
     align-items: center;
 }
 
-.avatar {
-    width: 150px;
-    height: 150px;
+.avatar img {
+    width: 1500px;
+    height: 1500px;
     box-sizing: border-box;
-    border: 5px #3c3e3b solid;
-    border-radius: 50%;
+    border: 70px #3c3e3b solid;
+    border-radius: 60%;
     overflow: hidden;
     box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
     transform: translatey(0px);
@@ -94,6 +94,6 @@ span a:hover {
 }
 
 span a img {
-    width: 30px; 
+    width: 100px; 
     height: auto; 
 }
